@@ -1,0 +1,1 @@
+Validation Loss has minimum value in epoch 0: 0.5
